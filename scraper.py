@@ -7,12 +7,15 @@ sauce = urllib.request.urlopen(address).read()
 
 soup = bs.BeautifulSoup(sauce, 'html5')
 
-print(soup)
+table = soup.find('table')
 
-print("Done printing " + address)
+table_rows = table.find_all('tr')
 
 Output_File = open(r"Site_Output.txt","w")
 
-Output_File.write(sauce.text)
+for tr in table_rows:
+    td = tr.find_all('td')
+    row = [i.text for i in td] 
+    Output_File.write(str(row))
 
 Output_File.close()
