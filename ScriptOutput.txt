@@ -1,199 +1,198 @@
-[]
-['09/04/19', 'Hot Tuna', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['09/05/19', 'Kacey Musgraves', 'Stifel Theatre', 'St. Louis, MO', 'View Tickets']
-['09/05/19', 'Amos Lee', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['09/05/19', 'Koe Wetzel', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/06/19', 'Backstreet Boys', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['09/06/19', 'ZZ Top', 'Hollywood Casino Amphitheatre - MO', 'Maryland Heights, MO', 'View Tickets']
-['09/06/19', 'Adam Ant', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['09/06/19', 'Alison Sudol', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/06/19', 'Falling Fences', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/07/19', 'Jinjer', 'Fubar', 'St. Louis, MO', '\xa0']
-['09/07/19', '1st Annual Music Festival: Brian Culbertson, Grace Kelly, Eric Darius, Erin Rode & Tim Cunningham', 'Chesterfield Amphitheatre', 'Chesterfield, MO', '\xa0']
-['09/07/19', 'Elizabeth Cook', 'Off Broadway', 'St. Louis, MO', '\xa0']
-['09/08/19', 'Hot Snakes', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/10/19', 'Lenny Kravitz', 'Fabulous Fox Theatre - St. Louis', 'St. Louis, MO', '\xa0']
-['09/10/19', 'Whitney', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/10/19', 'The Toasters', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/10/19', 'Kasimu Taylor', 'The Gaslight Theatre - MO', 'St. Louis, MO', '\xa0']
-['09/11/19', 'Tash Sultana', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['09/12/19', 'Nahko and Medicine For The People', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/12/19', 'Slaughter Beach & Dog', 'Off Broadway', 'St. Louis, MO', '\xa0']
-['09/12/19', 'Antlerhead', 'Lounge at Fubar', 'St. Louis, MO', '\xa0']
-['09/13/19', 'Thomas Rhett, Dustin Lynch & Russell Dickerson', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['09/13/19', 'Tropical Fuck Storm', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/14/19', 'Jonas Brothers', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['09/14/19', 'Blink 182 & Lil Wayne', 'Hollywood Casino Amphitheatre - MO', 'Maryland Heights, MO', 'View Tickets']
-['09/14/19', 'Travis Barker', 'Ryse - Saint Charles', 'Saint Charles, MO', '\xa0']
-['09/14/19', 'American Football - Band', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/14/19', 'The Commonheart', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/14/19', 'Brian Courtney Wilson', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['09/15/19', 'Sun Kil Moon', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/15/19', 'Senses Fail, Hot Mulligan & Yours Truly', 'Fubar', 'St. Louis, MO', '\xa0']
-['09/15/19', 'Leslie Stevens', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/15/19', 'St. Louis Gateway Tango: Orquesta Romantica Milonguera', 'Webster Groves Masonic Temple', 'St. Louis, MO', '\xa0']
-['09/18/19', 'Boris', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/18/19', 'The Early November', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/19/19', 'Jimmy Herring Band & The 5 of 7', 'El Volcan Night Club', 'St. Louis, MO', '\xa0']
-['09/19/19', 'Sebastian Bach', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/19/19', 'The Wldlfe', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/19/19', 'Todd Snider', 'Grandel Theatre', 'St. Louis, MO', '\xa0']
-['09/20/19', 'Brantley Gilbert', 'Hollywood Casino Amphitheatre - MO', 'Maryland Heights, MO', 'View Tickets']
-['09/20/19', 'Legends In Concert', 'River City Casino', 'St. Louis, MO', '\xa0']
-['09/20/19', 'Minnesota & Pigeon Hole', 'El Volcan Night Club', 'St. Louis, MO', '\xa0']
-['09/20/19', 'America - The Band', 'Touhill Performing Arts Center - Anheuser-Busch Performance Hall', 'St. Louis, MO', 'View Tickets']
-['09/21/19', 'Taking Back Sunday', 'Ballpark Village', 'St. Louis, MO', 'View Tickets']
-['09/22/19', 'Angels and Airwaves', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['09/22/19', 'Marianas Trench', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['09/22/19', 'JoJo Siwa', 'Chaifetz Arena', 'St. Louis, MO', 'View Tickets']
-['09/22/19', 'Marty Stuart and His Fabulous Superlatives', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['09/23/19', 'Ashe & Charlie Burg', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/24/19', 'Pup', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['09/25/19', 'The Black Keys, Modest Mouse & Repeat Repeat', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['09/25/19', 'Black Pumas', 'Off Broadway', 'St. Louis, MO', '\xa0']
-['09/25/19', 'Mdou Moctar', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/26/19', 'Tycho', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['09/27/19', 'Here Come The Mummies', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['09/27/19', 'Godsmack & Halestorm', 'Show Me Center', 'Cape Girardeau, MO', 'View Tickets']
-['09/28/19', 'Die Antwoord', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['09/28/19', 'Here Come The Mummies', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['09/28/19', "Reverend Peyton's Big Damn Band", 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['09/29/19', 'Bars and Melody', 'Fubar', 'St. Louis, MO', '\xa0']
-['09/30/19', 'This Wild Life & The Happy Fits', 'Blueberry Hill Duck Room', 'St. Louis, MO', 'View Tickets']
-['10/01/19', 'Judah And The Lion', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/01/19', 'Penny and Sparrow', 'Old Rock House', 'St. Louis, MO', '\xa0']
-['10/02/19', 'Judah And The Lion', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/02/19', 'Dream Theater', 'Stifel Theatre', 'St. Louis, MO', '\xa0']
-['10/03/19', 'Luke Combs', 'Show Me Center', 'Cape Girardeau, MO', 'View Tickets']
-['10/03/19', 'Chris Brown, Tory Lanez, Ty Dolla Sign & Joyner Lucas', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['10/03/19', 'Periphery, Veil Of Maya & Covet', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/04/19', 'Kid Rock', 'Hollywood Casino Amphitheatre - MO', 'Maryland Heights, MO', 'View Tickets']
-['10/04/19', 'Titus Andronicus', 'Off Broadway', 'St. Louis, MO', 'View Tickets']
-['10/04/19', 'Tyler The Creator', 'Chaifetz Arena', 'St. Louis, MO', 'View Tickets']
-['10/04/19', 'Orville Peck', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/05/19', 'Little River Band', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['10/05/19', 'For King and Country', 'Family Arena', 'Saint Charles, MO', 'View Tickets']
-['10/05/19', 'Cody Johnson', 'Chesterfield Amphitheatre', 'Chesterfield, MO', 'View Tickets']
-['10/05/19', 'Erykah Badu', 'Chaifetz Arena', 'St. Louis, MO', '\xa0']
-['10/05/19', 'Kongos', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['10/06/19', 'Lee Ann Womack', 'River City Casino', 'St. Louis, MO', '\xa0']
-['10/07/19', 'Jai Wolf', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/08/19', 'Lizzo', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/08/19', 'Sigrid', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['10/08/19', 'Cavetown', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/09/19', 'Kamelot', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['10/09/19', 'PnB Rock', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/10/19', 'Hoodie Allen & Jake Miller', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['10/10/19', 'Kid Quill', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['10/11/19', 'Disturbed', 'Chaifetz Arena', 'St. Louis, MO', 'View Tickets']
-['10/11/19', 'Blue October', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/11/19', 'Ian Noe', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/11/19', 'Obituary, Abbath, Midnight & Devil Master', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['10/11/19', 'John McEuen', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['10/11/19', 'Graveyard', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/12/19', 'Bret Michaels', 'Family Arena', 'Saint Charles, MO', 'View Tickets']
-['10/12/19', 'Big Wreck', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/13/19', 'John Prine', 'Stifel Theatre', 'St. Louis, MO', 'View Tickets']
-['10/14/19', 'Mudhoney', 'Off Broadway', 'St. Louis, MO', '\xa0']
-['10/14/19', 'Skillet, Alter Bridge & Dirty Honey', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/15/19', 'Trashcan Sinatras', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/15/19', 'Tiger Army', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/16/19', 'Ruston Kelly', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/16/19', 'Plague Vendor', 'Fubar', 'St. Louis, MO', '\xa0']
-['10/16/19', 'Smooth Hound Smith', 'Old Rock House', 'St. Louis, MO', '\xa0']
-['10/17/19', 'Big Wild', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/17/19', 'Drew Holcomb And The Neighbors', 'Old Rock House', 'St. Louis, MO', '\xa0']
-['10/17/19', 'Mike Doughty', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/17/19', 'Mat Kearney', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['10/18/19', 'The Raconteurs', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/18/19', 'Foghat', 'River City Casino', 'St. Louis, MO', '\xa0']
-['10/19/19', 'The New Mastersounds', 'Atomic Cowboy Pavilion', 'St. Louis, MO', '\xa0']
-['10/19/19', 'Big K.R.I.T.', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/19/19', 'Skizzy Mars', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/20/19', 'Tyrone Wells & Dan Rodriguez', 'Old Rock House', 'St. Louis, MO', '\xa0']
-['10/21/19', 'Mike Watt & The Missingmen', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/22/19', 'COIN', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['10/22/19', 'Amigo the Devil', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['10/22/19', 'Spafford', 'Old Rock House', 'St. Louis, MO', 'View Tickets']
-['10/23/19', 'Travis Tritt', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['10/23/19', '3.2 & Robert Barry', 'Fubar', 'St. Louis, MO', '\xa0']
-['10/25/19', 'Trisha Yearwood', 'Stifel Theatre', 'St. Louis, MO', 'View Tickets']
-['10/25/19', 'Loud Luxury', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/26/19', 'Celine Dion', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['10/26/19', 'AJR', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/26/19', 'Kishi Bashi', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/26/19', 'Arturo Sandoval & Jane Monheit', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['10/27/19', 'Chris Webby', 'Fubar', 'St. Louis, MO', '\xa0']
-['10/29/19', 'That 1 Guy', 'Old Rock House', 'St. Louis, MO', '\xa0']
-['10/29/19', 'Tyler Childers', 'Stifel Theatre', 'St. Louis, MO', 'View Tickets']
-['10/29/19', 'Conan Gray', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['10/31/19', 'The Menzingers', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['10/31/19', 'Twin Peaks, Post Animal & Ohmme', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['10/31/19', 'Young Thug & Machine Gun Kelly', 'Family Arena', 'Saint Charles, MO', 'View Tickets']
-['11/01/19', 'Ludo', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/02/19', 'Todrick Hall', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['11/02/19', 'Ludo', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/02/19', 'Ludo', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/03/19', 'Rumours of Fleetwood Mac', 'River City Casino', 'St. Louis, MO', '\xa0']
-['11/04/19', 'Lucy Dacus', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/05/19', 'Sleater-Kinney', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/05/19', 'The California Honeydrops', 'The Bootleg At Atomic Cowboy', 'St. Louis, MO', '\xa0']
-['11/05/19', 'Edwin McCain', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/06/19', 'Illenium', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/06/19', 'Com Truise', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/07/19', 'Alex Cameron', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['11/07/19', 'Cursive, Cloud Nothings & The Appleseed Cast', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/07/19', 'Bear Grillz', 'Old Rock House', 'St. Louis, MO', '\xa0']
-['11/08/19', 'The Chainsmokers & 5 Seconds of Summer', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['11/08/19', 'Big Head Todd and The Monsters', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/08/19', 'Los Lobos', 'Sheldon Concert Hall', 'St. Louis, MO', 'View Tickets']
-['11/08/19', 'The Flatlanders', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/09/19', 'Charlie Daniels Band', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['11/09/19', 'MercyMe', 'Enterprise Center', 'St. Louis, MO', 'View Tickets']
-['11/09/19', 'Cody Jinks', 'Fabulous Fox Theatre - St. Louis', 'St. Louis, MO', 'View Tickets']
-['11/09/19', 'The Weeks', 'Off Broadway', 'St. Louis, MO', '\xa0']
-['11/09/19', "Hirie, RDGLDGRN & Kash'd Out", 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['11/10/19', 'Charlie Daniels Band', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['11/10/19', 'Crumb', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/11/19', 'Russian Circles', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/12/19', 'The Wood Brothers', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/13/19', 'Bishop Briggs', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/14/19', 'Aaron Lewis', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/14/19', 'Incubus', 'Stifel Theatre', 'St. Louis, MO', 'View Tickets']
-['11/14/19', 'Wilco', 'Fabulous Fox Theatre - St. Louis', 'St. Louis, MO', 'View Tickets']
-['11/15/19', 'The Neighbourhood', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/16/19', 'Nella', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['11/17/19', 'Black Violin', 'Touhill Performing Arts Center - Anheuser-Busch Performance Hall', 'St. Louis, MO', '\xa0']
-['11/17/19', 'Indigo Girls', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/20/19', 'Kris Kristofferson', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['11/21/19', 'Sister Hazel', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['11/22/19', 'Straight No Chaser', 'Fabulous Fox Theatre - St. Louis', 'St. Louis, MO', 'View Tickets']
-['11/22/19', 'Marshall Tucker Band', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['11/22/19', 'Hobo Johnson & The Lovemakers', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['11/23/19', 'Mannheim Steamroller Christmas', 'Fabulous Fox Theatre - St. Louis', 'St. Louis, MO', 'View Tickets']
-['11/23/19', 'Mannheim Steamroller Christmas', 'Fabulous Fox Theatre - St. Louis', 'St. Louis, MO', 'View Tickets']
-['11/23/19', 'Son Volt', 'Delmar Hall', 'St. Louis, MO', 'View Tickets']
-['11/23/19', 'Big Band Christmas Jukebox', 'Bedell Performance Hall', 'Cape Girardeau, MO', '\xa0']
-['11/23/19', 'Big Band Christmas Jukebox', 'Bedell Performance Hall', 'Cape Girardeau, MO', '\xa0']
-['11/26/19', 'Helmet', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['11/30/19', 'Allah-Las', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['12/04/19', 'Jazz at Lincoln Center Orchestra: Wynton Marsalis', 'Powell Symphony Hall', 'St. Louis, MO', '\xa0']
-['12/05/19', 'Jon McLaughlin', 'Blueberry Hill Duck Room', 'St. Louis, MO', '\xa0']
-['12/06/19', 'Jim Brickman', 'Touhill Performing Arts Center - Anheuser-Busch Performance Hall', 'St. Louis, MO', 'View Tickets']
-['12/06/19', 'Dailey and Vincent', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['12/06/19', 'O.A.R.', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['12/07/19', 'Anacrusis', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['12/07/19', 'Zeke Beats & G-Rex', 'The Ready Room - St. Louis', 'St. Louis, MO', '\xa0']
-['12/09/19', 'Batushka', 'Delmar Hall', 'St. Louis, MO', '\xa0']
-['12/11/19', 'Steel Panther', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['12/15/19', 'The Motet', 'Old Rock House', 'St. Louis, MO', 'View Tickets']
-['12/20/19', 'SING! An Irish Christmas', 'Stifel Theatre', 'St. Louis, MO', '\xa0']
-['01/17/20', 'Ruthie Foster', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['02/08/20', 'Christian Sands', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['02/13/20', 'King Princess', 'The Pageant', 'St. Louis, MO', 'View Tickets']
-['02/14/20', 'Dennis Deyoung', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['02/15/20', 'Dennis Deyoung', 'River City Casino', 'St. Louis, MO', 'View Tickets']
-['02/21/20', 'Kathy Mattea', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['02/22/20', 'Melba Moore', 'Sheldon Concert Hall', 'St. Louis, MO', '\xa0']
-['04/24/20', 'Asleep At The Wheel', 'Sheldon Concert Hall', 'St. Louis, MO', 'View Tickets']
-['06/24/20', 'Ozzy Osbourne & Megadeth', 'Hollywood Casino Amphitheatre - MO', 'Maryland Heights, MO', 'View Tickets']
+         Date                                                                                            Artists                                                             Venue
+0    09/05/19  Kacey Musgraves                                                                                    Stifel Theatre                                                  
+1    09/05/19  Amos Lee                                                                                           The Pageant                                                     
+2    09/05/19  Koe Wetzel                                                                                         Delmar Hall                                                     
+3    09/06/19  Backstreet Boys                                                                                    Enterprise Center                                               
+4    09/06/19  ZZ Top                                                                                             Hollywood Casino Amphitheatre - MO                              
+5    09/06/19  Adam Ant                                                                                           The Pageant                                                     
+6    09/06/19  Alison Sudol                                                                                       Blueberry Hill Duck Room                                        
+7    09/06/19  Falling Fences                                                                                     Delmar Hall                                                     
+8    09/07/19  Jinjer                                                                                             Fubar                                                           
+9    09/07/19  1st Annual Music Festival: Brian Culbertson, Grace Kelly, Eric Darius, Erin Rode & Tim Cunningham  Chesterfield Amphitheatre                                       
+10   09/07/19  Elizabeth Cook                                                                                     Off Broadway                                                    
+11   09/08/19  Hot Snakes                                                                                         Blueberry Hill Duck Room                                        
+12   09/10/19  Lenny Kravitz                                                                                      Fabulous Fox Theatre - St. Louis                                
+13   09/10/19  Whitney                                                                                            Delmar Hall                                                     
+14   09/10/19  The Toasters                                                                                       Blueberry Hill Duck Room                                        
+15   09/10/19  Kasimu Taylor                                                                                      The Gaslight Theatre - MO                                       
+16   09/11/19  Tash Sultana                                                                                       The Pageant                                                     
+17   09/12/19  Nahko and Medicine For The People                                                                  Delmar Hall                                                     
+18   09/12/19  Slaughter Beach & Dog                                                                              Off Broadway                                                    
+19   09/12/19  Antlerhead                                                                                         Lounge at Fubar                                                 
+20   09/13/19  Thomas Rhett, Dustin Lynch & Russell Dickerson                                                     Enterprise Center                                               
+21   09/13/19  Tropical Fuck Storm                                                                                Blueberry Hill Duck Room                                        
+22   09/14/19  Jonas Brothers                                                                                     Enterprise Center                                               
+23   09/14/19  Blink 182 & Lil Wayne                                                                              Hollywood Casino Amphitheatre - MO                              
+24   09/14/19  Travis Barker                                                                                      Ryse - Saint Charles                                            
+25   09/14/19  American Football - Band                                                                           Delmar Hall                                                     
+26   09/14/19  The Commonheart                                                                                    Blueberry Hill Duck Room                                        
+27   09/14/19  Brian Courtney Wilson                                                                              The Ready Room - St. Louis                                      
+28   09/15/19  Sun Kil Moon                                                                                       Delmar Hall                                                     
+29   09/15/19  Senses Fail, Hot Mulligan & Yours Truly                                                            Fubar                                                           
+30   09/15/19  Leslie Stevens                                                                                     Blueberry Hill Duck Room                                        
+31   09/15/19  St. Louis Gateway Tango: Orquesta Romantica Milonguera                                             Webster Groves Masonic Temple                                   
+32   09/18/19  Boris                                                                                              Delmar Hall                                                     
+33   09/18/19  The Early November                                                                                 Blueberry Hill Duck Room                                        
+34   09/19/19  Jimmy Herring Band & The 5 of 7                                                                    El Volcan Night Club                                            
+35   09/19/19  Sebastian Bach                                                                                     Delmar Hall                                                     
+36   09/19/19  The Wldlfe                                                                                         Blueberry Hill Duck Room                                        
+37   09/19/19  Todd Snider                                                                                        Grandel Theatre                                                 
+38   09/20/19  Brantley Gilbert                                                                                   Hollywood Casino Amphitheatre - MO                              
+39   09/20/19  Legends In Concert                                                                                 River City Casino                                               
+40   09/20/19  Minnesota & Pigeon Hole                                                                            El Volcan Night Club                                            
+41   09/20/19  America - The Band                                                                                 Touhill Performing Arts Center - Anheuser-Busch Performance Hall
+42   09/21/19  Taking Back Sunday                                                                                 Ballpark Village                                                
+43   09/22/19  Angels and Airwaves                                                                                The Pageant                                                     
+44   09/22/19  Marianas Trench                                                                                    Delmar Hall                                                     
+45   09/22/19  JoJo Siwa                                                                                          Chaifetz Arena                                                  
+46   09/22/19  Marty Stuart and His Fabulous Superlatives                                                         Sheldon Concert Hall                                            
+47   09/23/19  Ashe & Charlie Burg                                                                                Blueberry Hill Duck Room                                        
+48   09/24/19  Pup                                                                                                Delmar Hall                                                     
+49   09/25/19  The Black Keys, Modest Mouse & Repeat Repeat                                                       Enterprise Center                                               
+50   09/25/19  Black Pumas                                                                                        Off Broadway                                                    
+51   09/25/19  Mdou Moctar                                                                                        Blueberry Hill Duck Room                                        
+52   09/26/19  Tycho                                                                                              The Pageant                                                     
+53   09/27/19  Here Come The Mummies                                                                              Delmar Hall                                                     
+54   09/27/19  Godsmack & Halestorm                                                                               Show Me Center                                                  
+55   09/28/19  Die Antwoord                                                                                       The Pageant                                                     
+56   09/28/19  Here Come The Mummies                                                                              Delmar Hall                                                     
+57   09/28/19  Reverend Peyton's Big Damn Band                                                                    Blueberry Hill Duck Room                                        
+58   09/29/19  Bars and Melody                                                                                    Fubar                                                           
+59   09/30/19  This Wild Life & The Happy Fits                                                                    Blueberry Hill Duck Room                                        
+60   10/01/19  Judah And The Lion                                                                                 The Pageant                                                     
+61   10/01/19  Penny and Sparrow                                                                                  Old Rock House                                                  
+62   10/02/19  Judah And The Lion                                                                                 The Pageant                                                     
+63   10/02/19  Dream Theater                                                                                      Stifel Theatre                                                  
+64   10/03/19  Luke Combs                                                                                         Show Me Center                                                  
+65   10/03/19  Chris Brown, Tory Lanez, Ty Dolla Sign & Joyner Lucas                                              Enterprise Center                                               
+66   10/03/19  Periphery, Veil Of Maya & Covet                                                                    The Pageant                                                     
+67   10/04/19  Kid Rock                                                                                           Hollywood Casino Amphitheatre - MO                              
+68   10/04/19  Titus Andronicus                                                                                   Off Broadway                                                    
+69   10/04/19  Tyler The Creator                                                                                  Chaifetz Arena                                                  
+70   10/04/19  Orville Peck                                                                                       Blueberry Hill Duck Room                                        
+71   10/05/19  Little River Band                                                                                  River City Casino                                               
+72   10/05/19  For King and Country                                                                               Family Arena                                                    
+73   10/05/19  Cody Johnson                                                                                       Chesterfield Amphitheatre                                       
+74   10/05/19  Erykah Badu                                                                                        Chaifetz Arena                                                  
+75   10/05/19  Kongos                                                                                             Delmar Hall                                                     
+76   10/06/19  Lee Ann Womack                                                                                     River City Casino                                               
+77   10/07/19  Jai Wolf                                                                                           The Pageant                                                     
+78   10/08/19  Lizzo                                                                                              The Pageant                                                     
+79   10/08/19  Sigrid                                                                                             The Ready Room - St. Louis                                      
+80   10/08/19  Cavetown                                                                                           Delmar Hall                                                     
+81   10/09/19  Kamelot                                                                                            The Ready Room - St. Louis                                      
+82   10/09/19  PnB Rock                                                                                           The Pageant                                                     
+83   10/10/19  Hoodie Allen & Jake Miller                                                                         Delmar Hall                                                     
+84   10/10/19  Kid Quill                                                                                          The Ready Room - St. Louis                                      
+85   10/11/19  Disturbed                                                                                          Chaifetz Arena                                                  
+86   10/11/19  Blue October                                                                                       The Pageant                                                     
+87   10/11/19  Ian Noe                                                                                            Blueberry Hill Duck Room                                        
+88   10/11/19  Obituary, Abbath, Midnight & Devil Master                                                          The Ready Room - St. Louis                                      
+89   10/11/19  John McEuen                                                                                        Sheldon Concert Hall                                            
+90   10/11/19  Graveyard                                                                                          Delmar Hall                                                     
+91   10/12/19  Bret Michaels                                                                                      Family Arena                                                    
+92   10/12/19  Big Wreck                                                                                          Delmar Hall                                                     
+93   10/13/19  John Prine                                                                                         Stifel Theatre                                                  
+94   10/14/19  Mudhoney                                                                                           Off Broadway                                                    
+95   10/14/19  Skillet, Alter Bridge & Dirty Honey                                                                The Pageant                                                     
+96   10/15/19  Trashcan Sinatras                                                                                  Blueberry Hill Duck Room                                        
+97   10/15/19  Tiger Army                                                                                         Delmar Hall                                                     
+98   10/16/19  Ruston Kelly                                                                                       Blueberry Hill Duck Room                                        
+99   10/16/19  Plague Vendor                                                                                      Fubar                                                           
+100  10/16/19  Smooth Hound Smith                                                                                 Old Rock House                                                  
+101  10/17/19  Big Wild                                                                                           Delmar Hall                                                     
+102  10/17/19  Drew Holcomb And The Neighbors                                                                     Old Rock House                                                  
+103  10/17/19  Mike Doughty                                                                                       Blueberry Hill Duck Room                                        
+104  10/17/19  Mat Kearney                                                                                        Sheldon Concert Hall                                            
+105  10/18/19  The Raconteurs                                                                                     The Pageant                                                     
+106  10/18/19  Foghat                                                                                             River City Casino                                               
+107  10/19/19  The New Mastersounds                                                                               Atomic Cowboy Pavilion                                          
+108  10/19/19  Big K.R.I.T.                                                                                       The Pageant                                                     
+109  10/19/19  Skizzy Mars                                                                                        Delmar Hall                                                     
+110  10/20/19  Tyrone Wells & Dan Rodriguez                                                                       Old Rock House                                                  
+111  10/21/19  Mike Watt & The Missingmen                                                                         Blueberry Hill Duck Room                                        
+112  10/22/19  COIN                                                                                               Delmar Hall                                                     
+113  10/22/19  Amigo the Devil                                                                                    Blueberry Hill Duck Room                                        
+114  10/22/19  Spafford                                                                                           Old Rock House                                                  
+115  10/23/19  Travis Tritt                                                                                       River City Casino                                               
+116  10/23/19  3.2 & Robert Barry                                                                                 Fubar                                                           
+117  10/25/19  Trisha Yearwood                                                                                    Stifel Theatre                                                  
+118  10/25/19  Loud Luxury                                                                                        The Pageant                                                     
+119  10/26/19  Celine Dion                                                                                        Enterprise Center                                               
+120  10/26/19  AJR                                                                                                The Pageant                                                     
+121  10/26/19  Kishi Bashi                                                                                        Delmar Hall                                                     
+122  10/26/19  Arturo Sandoval & Jane Monheit                                                                     Sheldon Concert Hall                                            
+123  10/27/19  Chris Webby                                                                                        Fubar                                                           
+124  10/29/19  That 1 Guy                                                                                         Old Rock House                                                  
+125  10/29/19  Tyler Childers                                                                                     Stifel Theatre                                                  
+126  10/29/19  Conan Gray                                                                                         The Pageant                                                     
+127  10/31/19  The Menzingers                                                                                     Delmar Hall                                                     
+128  10/31/19  Twin Peaks, Post Animal & Ohmme                                                                    The Ready Room - St. Louis                                      
+129  10/31/19  Young Thug & Machine Gun Kelly                                                                     Family Arena                                                    
+130  11/01/19  Ludo                                                                                               The Pageant                                                     
+131  11/02/19  Todrick Hall                                                                                       Delmar Hall                                                     
+132  11/02/19  Ludo                                                                                               The Pageant                                                     
+133  11/02/19  Ludo                                                                                               The Pageant                                                     
+134  11/03/19  Rumours of Fleetwood Mac                                                                           River City Casino                                               
+135  11/04/19  Lucy Dacus                                                                                         Delmar Hall                                                     
+136  11/05/19  Sleater-Kinney                                                                                     The Pageant                                                     
+137  11/05/19  The California Honeydrops                                                                          The Bootleg At Atomic Cowboy                                    
+138  11/05/19  Edwin McCain                                                                                       Delmar Hall                                                     
+139  11/06/19  Illenium                                                                                           The Pageant                                                     
+140  11/06/19  Com Truise                                                                                         Delmar Hall                                                     
+141  11/07/19  Alex Cameron                                                                                       The Ready Room - St. Louis                                      
+142  11/07/19  Cursive, Cloud Nothings & The Appleseed Cast                                                       Delmar Hall                                                     
+143  11/07/19  Bear Grillz                                                                                        Old Rock House                                                  
+144  11/08/19  The Chainsmokers & 5 Seconds of Summer                                                             Enterprise Center                                               
+145  11/08/19  Big Head Todd and The Monsters                                                                     The Pageant                                                     
+146  11/08/19  Los Lobos                                                                                          Sheldon Concert Hall                                            
+147  11/08/19  The Flatlanders                                                                                    Delmar Hall                                                     
+148  11/09/19  Charlie Daniels Band                                                                               River City Casino                                               
+149  11/09/19  MercyMe                                                                                            Enterprise Center                                               
+150  11/09/19  Cody Jinks                                                                                         Fabulous Fox Theatre - St. Louis                                
+151  11/09/19  The Weeks                                                                                          Off Broadway                                                    
+152  11/09/19  Hirie, RDGLDGRN & Kash'd Out                                                                       Blueberry Hill Duck Room                                        
+153  11/10/19  Charlie Daniels Band                                                                               River City Casino                                               
+154  11/10/19  Crumb                                                                                              Delmar Hall                                                     
+155  11/11/19  Russian Circles                                                                                    Delmar Hall                                                     
+156  11/12/19  The Wood Brothers                                                                                  The Pageant                                                     
+157  11/13/19  Bishop Briggs                                                                                      The Pageant                                                     
+158  11/14/19  Aaron Lewis                                                                                        The Pageant                                                     
+159  11/14/19  Incubus                                                                                            Stifel Theatre                                                  
+160  11/14/19  Wilco                                                                                              Fabulous Fox Theatre - St. Louis                                
+161  11/15/19  The Neighbourhood                                                                                  The Pageant                                                     
+162  11/16/19  Nella                                                                                              Sheldon Concert Hall                                            
+163  11/17/19  Black Violin                                                                                       Touhill Performing Arts Center - Anheuser-Busch Performance Hall
+164  11/17/19  Indigo Girls                                                                                       The Pageant                                                     
+165  11/20/19  Kris Kristofferson                                                                                 River City Casino                                               
+166  11/21/19  Sister Hazel                                                                                       Delmar Hall                                                     
+167  11/22/19  Straight No Chaser                                                                                 Fabulous Fox Theatre - St. Louis                                
+168  11/22/19  Marshall Tucker Band                                                                               River City Casino                                               
+169  11/22/19  Hobo Johnson & The Lovemakers                                                                      The Pageant                                                     
+170  11/23/19  Mannheim Steamroller Christmas                                                                     Fabulous Fox Theatre - St. Louis                                
+171  11/23/19  Mannheim Steamroller Christmas                                                                     Fabulous Fox Theatre - St. Louis                                
+172  11/23/19  Son Volt                                                                                           Delmar Hall                                                     
+173  11/23/19  Big Band Christmas Jukebox                                                                         Bedell Performance Hall                                         
+174  11/23/19  Big Band Christmas Jukebox                                                                         Bedell Performance Hall                                         
+175  11/26/19  Helmet                                                                                             Delmar Hall                                                     
+176  11/30/19  Allah-Las                                                                                          Blueberry Hill Duck Room                                        
+177  12/04/19  Jazz at Lincoln Center Orchestra: Wynton Marsalis                                                  Powell Symphony Hall                                            
+178  12/05/19  Jon McLaughlin                                                                                     Blueberry Hill Duck Room                                        
+179  12/06/19  Jim Brickman                                                                                       Touhill Performing Arts Center - Anheuser-Busch Performance Hall
+180  12/06/19  Dailey and Vincent                                                                                 Sheldon Concert Hall                                            
+181  12/06/19  O.A.R.                                                                                             The Pageant                                                     
+182  12/07/19  Anacrusis                                                                                          Delmar Hall                                                     
+183  12/07/19  Zeke Beats & G-Rex                                                                                 The Ready Room - St. Louis                                      
+184  12/09/19  Batushka                                                                                           Delmar Hall                                                     
+185  12/11/19  Steel Panther                                                                                      The Pageant                                                     
+186  12/15/19  The Motet                                                                                          Old Rock House                                                  
+187  12/20/19  SING! An Irish Christmas                                                                           Stifel Theatre                                                  
+188  01/17/20  Ruthie Foster                                                                                      Sheldon Concert Hall                                            
+189  02/08/20  Christian Sands                                                                                    Sheldon Concert Hall                                            
+190  02/13/20  King Princess                                                                                      The Pageant                                                     
+191  02/14/20  Dennis Deyoung                                                                                     River City Casino                                               
+192  02/15/20  Dennis Deyoung                                                                                     River City Casino                                               
+193  02/21/20  Kathy Mattea                                                                                       Sheldon Concert Hall                                            
+194  02/22/20  Melba Moore                                                                                        Sheldon Concert Hall                                            
+195  04/24/20  Asleep At The Wheel                                                                                Sheldon Concert Hall                                            
+196  06/24/20  Ozzy Osbourne & Megadeth                                                                           Hollywood Casino Amphitheatre - MO                              

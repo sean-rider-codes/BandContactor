@@ -1,9 +1,15 @@
-import bs4 as bs
-import pandas as pd
-import urllib.request
+import tkinter
 import os
+import pandas as pd
+import requests
+from lxml import html
+import smtplib
 
-nl = "\n"
+#GUI
+window = tkinter.Tk()
+window.title("Set Up")
+tkinter.Label(window, text = "                                  Email Bands                                 ").pack()
+window.mainloop()
 
 #building directory and filename for file we will write to
 dir = os.path.dirname(__file__)
@@ -11,30 +17,32 @@ filename = os.path.join(dir, 'ScriptOutput.txt')
 
 #url for concert website, change to reflect your city/state
 address = "http://concertcalendarusa.com/saint-louis-concert-schedule"
-print(nl + "Querying " + address)
+print("\nQuerying " + address +"...")
 
-#use beautiful soup to open website and pull table rows from the html
-sauce = urllib.request.urlopen(address).read()
+#Create DataFrame from HTML table using Pandas, trim city and link columns
+print("Importing table...")
+df = pd.read_html(address)[0]
 
-soup = bs.BeautifulSoup(sauce, 'html5lib')
+print("Formatting table...")
+trimDF = df.drop([df.columns[3], df.columns[4]], axis='columns')
 
-table = soup.find('tbody')
+#set max number of rows so all entries are shown
+pd.set_option('display.max_rows', 300)
 
-table_rows = table.find_all('tr')
+#set max width so long names are not truncated
+pd.set_option('display.max_colwidth', -1)
 
 #write table rows to text file
 print("Writing to " + filename)
 
 Output_File = open(filename,"w")
-
-
-
-for tr in table_rows:
-    td = tr.find_all('td')
-    row = [i.text for i in td] 
-    Output_File.write(str(row) + nl)
-#Output_File.write("\n")
-
+trimDF.to_string(Output_File)
 Output_File.close()
 
-print("Closing " + filename + nl)
+print("File has been updated")
+
+#Booking Agent Info Section
+payload = {
+    "username": "seanriderphoto",
+    "password": "BAIPassword1234"
+}
